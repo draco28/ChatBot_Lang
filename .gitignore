@@ -1,6 +1,7 @@
 # Claude Code / MCP configuration
 .claude/
 .mcp.json
+opencode.json
 
 # Python
 __pycache__/
@@ -62,3 +63,4 @@ qdrant_storage/
 # Sample docs (keep structure, ignore actual docs)
 sample_docs/*.docx
 !sample_docs/.gitkeep
+.opencode/
